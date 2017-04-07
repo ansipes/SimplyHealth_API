@@ -35,7 +35,7 @@ class HydrationsController extends Controller
    // updates a single hydration
    $hydration = Hydration::find($id);
    $hydration = $hydration->update($request->all());
-   return Response::json(['Updated' => true]);
+   return Response::json(['updated' => true]);
  }
  public function destroy ($id)
  {

@@ -35,7 +35,7 @@ class FoodsController extends Controller
    // updates a single food
    $food = Food::find($id);
    $food = $food->update($request->all());
-   return Response::json(['Updated' => true]);
+   return Response::json(['updated' => true]);
  }
  public function destroy ($id)
  {
