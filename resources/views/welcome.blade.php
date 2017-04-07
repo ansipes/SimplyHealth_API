@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>SimplyHealth API</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,15 +79,23 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    SimplyHealth API
                 </div>
 
+                <p>The SimplyHealth API provides useful methods that allow a
+                 user to track
+                 <br />Hydrations, Foods, and Exercises, assisting
+                 <br />them on their path to better health.</p>
+
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/ansipes/SimplyHealth_API" target="_blank">GitHub</a><br /><br />
+                    <a href="https://ansipes.gitbooks.io/simplyhealth-api" target="_blank">Documentation</a>
+                </div>
+                <br />
+                <p>Credits</p>
+                <div class="links">
+                    <a href="https://github.com/laravel/laravel" target="_blank">Laravel</a>
+                    <a href="https://github.com/asethwright" target="_blank">Mentor</a>
                 </div>
             </div>
         </div>
